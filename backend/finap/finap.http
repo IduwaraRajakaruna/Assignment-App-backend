@@ -1,0 +1,6 @@
+@finap_HostAddress = http://localhost:5001
+
+GET {{finap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
